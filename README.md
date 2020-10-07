@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevan4" alt="thevan4" /> </p>
 
-- 🔭 I’m currently working on [load balancer (tier1) as a service](https://github.com/khannz/crispy-palm-tree)
+- 🔭 I’m currently working on: load balancer (tier1) as a service](https://github.com/khannz/crispy-palm-tree)
 
-- 🌱 I’m currently learning grokking algorithms
+- 🌱 I’m currently learning: rokking algorithms
 
-- 🤝 I’m looking for help with [pflag](https://github.com/spf13/pflag)
+- 🤝 I’m looking for help: [pflag](https://github.com/spf13/pflag)
 
-- 💬 Ask me about clean architecture and patterns in go
+- 💬 Ask me about: clean architecture and patterns in go
 
-- 📫 How to reach me [keybase](https://keybase.io/thevan)
+- 📫 How to reach me: [keybase](https://keybase.io/thevan)
 
 - ⚡ Fun fact: i was found a balance between fast programming and clean code - this is TODO and FIXME comments😃
 
