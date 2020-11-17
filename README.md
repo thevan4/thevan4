@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: [load balancer (tier1) as a service](https://github.com/khannz/crispy-palm-tree)
 
-- 🌱 I’m currently learning: rokking algorithms
+- 🌱 I’m currently learning: grokking algorithms
 
 - 🤝 I’m looking for help: [pflag](https://github.com/spf13/pflag)
 
