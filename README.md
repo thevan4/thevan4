@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevan4" alt="thevan4" /> </p>
 
-- 🔭 I’m currently working on: load balancer (tier1) as a service](https://github.com/khannz/crispy-palm-tree)
+- 🔭 I’m currently working on: [load balancer (tier1) as a service](https://github.com/khannz/crispy-palm-tree)
 
 - 🌱 I’m currently learning: rokking algorithms
 
