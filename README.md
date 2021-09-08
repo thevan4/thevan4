@@ -7,6 +7,4 @@
 
 - 💬 Ask me about: clean architecture and patterns in go
 
-- 📫 How to reach me: [keybase](https://keybase.io/thevan)
-
 - ⚡ Fun fact: i was found a balance between fast programming and clean code - this is TODO and FIXME comments😃
