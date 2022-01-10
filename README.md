@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevan4" alt="thevan4" /> </p>
 
-- 🌱 I’m currently learning: grokking algorithms
+- 🌱 I’m currently learning: factorio game mechanics
 
 - 💬 Ask me about: clean architecture and patterns in go
 
